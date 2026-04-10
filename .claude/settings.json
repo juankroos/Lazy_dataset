@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/juankroos/Lab2view_agents_community-1/agent_smart/**)",
+      "Bash(python test_evolution.py)",
+      "Bash(python test_agents_integration.py)",
+      "Read(//c/Users/juankroos/Lab2view_agents_community-1/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\juankroos\\Lab2view_agents_community-1\\agent_smart"
+    ]
+  }
+}
